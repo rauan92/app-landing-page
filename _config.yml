@@ -1,6 +1,5 @@
 # general configuration
 url: http://taptaza.com
-baseurl: ‘’
 
 # app configuration
 app:
