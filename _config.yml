@@ -1,6 +1,6 @@
 # general configuration
-url: http://example.com
-baseurl: '/app-landing-page'
+url: http://taptaza.com
+baseurl: ‘’
 
 # app configuration
 app:
